@@ -30,3 +30,7 @@
 ##  Send Redirect
 
 - **URL:** `/redirect.jsp` (form) → `/redirect` (servlet)
+
+
+## Some Screenshoot images
+D:\new desktop\JavaLogin\images
