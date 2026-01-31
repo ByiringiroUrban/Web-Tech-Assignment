@@ -35,3 +35,9 @@
 0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:16:21 +0200] "POST /redirect HTTP/1.1" 302 - http-bio-8080-exec-3 9
 0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:16:33 +0200] "GET /redirect.jsp HTTP/1.1" 200 1067 http-bio-8080-exec-3 5
 0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:17:20 +0200] "GET /redirect.jsp HTTP/1.1" 200 1046 http-bio-8080-exec-3 659
+0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:31:01 +0200] "GET /login.jsp HTTP/1.1" 200 1123 http-bio-8080-exec-10 20
+0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:31:13 +0200] "POST /login HTTP/1.1" 200 450 http-bio-8080-exec-10 6
+0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:31:23 +0200] "GET /login.jsp HTTP/1.1" 200 1123 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:31:28 +0200] "GET /index.html HTTP/1.1" 304 - http-bio-8080-exec-10 9
+0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:31:30 +0200] "GET /redirect.jsp HTTP/1.1" 200 1046 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [31/Jan/2026:22:31:55 +0200] "POST /redirect HTTP/1.1" 302 - http-bio-8080-exec-10 3
