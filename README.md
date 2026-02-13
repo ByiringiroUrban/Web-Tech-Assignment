@@ -274,7 +274,7 @@ Main endpoints:
 
 **Question 1  Books API**
 
-![Q1   Books list](Screenshoots/Screenshot 2026-02-13 125456.png)  
+!(Screenshoots/Screenshot 2026-02-13 125456.png)  
 ![Q1   Book by id](Screenshoots/Screenshot 2026-02-13 125524.png)
 
 **Question 2  Students API**
