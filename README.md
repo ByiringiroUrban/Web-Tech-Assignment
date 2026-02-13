@@ -274,30 +274,30 @@ Main endpoints:
 
 **Question 1 – Books API**
 
-![Screenshot 2026-02-13 125456](Screenshoots/Screenshot%202026-02-13%20125456.png)
-![Screenshot 2026-02-13 125524](Screenshoots/Screenshot%202026-02-13%20125524.png)
+![Screenshot 2026-02-13 125456](Screenshoots/image1.png)
+![Screenshot 2026-02-13 125524](Screenshoots/image2.png)
 
 **Question 2 – Students API**
 
-![Screenshot 2026-02-13 125734](Screenshoots/Screenshot%202026-02-13%20125734.png)
-![Screenshot 2026-02-13 125752](Screenshoots/Screenshot%202026-02-13%20125752.png)
+![Screenshot 2026-02-13 125734](Screenshoots/image3.png)
+![Screenshot 2026-02-13 125752](Screenshoots/image4.png)
 
 **Question 3 – Menu API**
 
-![Screenshot 2026-02-13 130035](Screenshoots/Screenshot%202026-02-13%20130035.png)
-![Screenshot 2026-02-13 130149](Screenshoots/Screenshot%202026-02-13%20130149.png)
+![Screenshot 2026-02-13 130035](Screenshoots/image5.png)
+![Screenshot 2026-02-13 130149](Screenshoots/image6.png)
 
 **Question 4 – Products API**
 
-![Screenshot 2026-02-13 130406](Screenshoots/Screenshot%202026-02-13%20130406.png)
-![Screenshot 2026-02-13 130539](Screenshoots/Screenshot%202026-02-13%20130539.png)
+![Screenshot 2026-02-13 130406](Screenshoots/image7.png)
+![Screenshot 2026-02-13 130539](Screenshoots/image8.png)
 
 **Question 5 – Tasks API**
 
-![Screenshot 2026-02-13 131059](Screenshoots/Screenshot%202026-02-13%20131059.png)
-![Screenshot 2026-02-13 131116](Screenshoots/Screenshot%202026-02-13%20131116.png)
+![Screenshot 2026-02-13 131059](Screenshoots/image9.png)
+![Screenshot 2026-02-13 131116](Screenshoots/image10.png)
 
 **Bonus – User Profiles API**
 
-![Screenshot 2026-02-13 131359](Screenshoots/Screenshot%202026-02-13%20131359.png)
-![Screenshot 2026-02-13 133521](Screenshoots/Screenshot%202026-02-13%20133521.png)
+![Screenshot 2026-02-13 131359](Screenshoots/image11.png)
+![Screenshot 2026-02-13 133521](Screenshoots/image12.png)
