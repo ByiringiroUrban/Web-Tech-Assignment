@@ -272,33 +272,32 @@ Main endpoints:
 
 ## Some Screenshoots images
 
-**Question 1  Books API**
+**Question 1 – Books API**
 
-![Q1   Books list](Screenshoots/Screenshot 2026-02-13 125456.png)  
-![Q1   Book by id](Screenshoots/Screenshot 2026-02-13 125524.png)
+![Screenshot 2026-02-13 125456](Screenshoots/Screenshot%202026-02-13%20125456.png)
+![Screenshot 2026-02-13 125524](Screenshoots/Screenshot%202026-02-13%20125524.png)
 
-**Question 2  Students API**
+**Question 2 – Students API**
 
-![Q2  All students](Screenshoots/Screenshot 2026-02-13 125734.png)  
-![Q2  Filter students](Screenshoots/Screenshot 2026-02-13 125752.png)
+![Screenshot 2026-02-13 125734](Screenshoots/Screenshot%202026-02-13%20125734.png)
+![Screenshot 2026-02-13 125752](Screenshoots/Screenshot%202026-02-13%20125752.png)
 
-**Question 3  Menu API**
+**Question 3 – Menu API**
 
-![Q3  All menu items](Screenshoots/Screenshot 2026-02-13 130035.png)  
-![Q3  Available items](Screenshoots/Screenshot 2026-02-13 130149.png)
+![Screenshot 2026-02-13 130035](Screenshoots/Screenshot%202026-02-13%20130035.png)
+![Screenshot 2026-02-13 130149](Screenshoots/Screenshot%202026-02-13%20130149.png)
 
-**Question 4  Products API**
+**Question 4 – Products API**
 
-![Q4  All products](Screenshoots/Screenshot 2026-02-13 130406.png)  
-![Q4  Search / filters](Screenshoots/Screenshot 2026-02-13 130539.png)
+![Screenshot 2026-02-13 130406](Screenshoots/Screenshot%202026-02-13%20130406.png)
+![Screenshot 2026-02-13 130539](Screenshoots/Screenshot%202026-02-13%20130539.png)
 
-**Question 5  Tasks API**
+**Question 5 – Tasks API**
 
-![Q5  All tasks](Screenshoots/Screenshot 2026-02-13 131059.png)  
-![Q5  Complete task](Screenshoots/Screenshot 2026-02-13 131116.png)
+![Screenshot 2026-02-13 131059](Screenshoots/Screenshot%202026-02-13%20131059.png)
+![Screenshot 2026-02-13 131116](Screenshoots/Screenshot%202026-02-13%20131116.png)
 
-**Bonus  User Profiles API**
+**Bonus – User Profiles API**
 
-![Bonus  All users](Screenshoots/Screenshot 2026-02-13 131359.png)  
-![Bonus  Activate / deactivate](Screenshoots/Screenshot 2026-02-13 133521.png)
-
+![Screenshot 2026-02-13 131359](Screenshoots/Screenshot%202026-02-13%20131359.png)
+![Screenshot 2026-02-13 133521](Screenshoots/Screenshot%202026-02-13%20133521.png)
